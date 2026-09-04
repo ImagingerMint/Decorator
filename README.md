@@ -1,2 +1,2 @@
-# Software-Design
-Design Patterns
+# Decorator
+Design pattern
