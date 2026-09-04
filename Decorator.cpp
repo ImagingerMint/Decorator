@@ -1,5 +1,9 @@
-#include <stdio>
+#include <iostream>
+using std::cout, std::endl;
 
-int main(){
-
+int main()
+{
+    
+    cout << "test" << endl;
+    return 0;
 }
