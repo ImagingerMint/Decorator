@@ -1,2 +1,2 @@
 # Decorator
-Design pattern
+Design Pattern
